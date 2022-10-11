@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilAPIDemo", "BilAPIDemo\BilAPIDemo.csproj", "{545E5E20-6E43-4B33-8845-583A863CBEFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{545E5E20-6E43-4B33-8845-583A863CBEFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{545E5E20-6E43-4B33-8845-583A863CBEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{545E5E20-6E43-4B33-8845-583A863CBEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{545E5E20-6E43-4B33-8845-583A863CBEFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {372C3690-B072-4B40-A233-197CB7859EB5}
+	EndGlobalSection
+EndGlobal
